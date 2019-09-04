@@ -9,7 +9,15 @@ console.log({a:1, b:2});
 console.table({a:1, b:2});
 
 console.error('This is some error');
-console.clear()
+console.clear();
+console.warn('This is a warning');
+
+console.time('hello');
+  console.log('hello from bob');
+  console.log('hello from bob');
+  console.log('hello from bob');
+  console.log('hello from bob');
+console.timeEnd('hello');
 
 /* 
 line1
