@@ -18,7 +18,7 @@ console.time('hello');
   console.log('hello from bob');
   console.log('hello from bob');
 console.timeEnd('hello');
-
+ console.clear();
 /* 
 line1
 line2
