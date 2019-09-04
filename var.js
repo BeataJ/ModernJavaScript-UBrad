@@ -22,8 +22,13 @@
 // // Pascal case
 // var FirstName = 'Tom';
 
-// Let
-let name = 'Joe Doe';
-console.log(name);
-name = 'Steve Smith',
+// // Let
+// let name;
+// name = 'Joe Doe';
+// console.log(name);
+// name = 'Steve Smith',
+// console.log(name);
+
+// const
+const name = 'John';
 console.log(name);
