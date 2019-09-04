@@ -1,1 +1,2 @@
-alert('hello from beata')
+// log to console
+console.log('hello from bob');
