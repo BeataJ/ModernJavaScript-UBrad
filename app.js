@@ -6,3 +6,4 @@ const greetings = 'Welcome';
 console.log(greetings);
 console.log([1,2,3,4]);
 console.log({a:1, b:2});
+console.table({a:1, b:2});
