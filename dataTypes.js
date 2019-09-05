@@ -11,5 +11,7 @@ const hasKids = false;
 const car = null;
 // undefined
 let test;
+// Symbol
+const sym = Symbol();
 
-console.log(typeof test);
+console.log(typeof sym);
