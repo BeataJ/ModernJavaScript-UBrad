@@ -4,5 +4,7 @@
 const name = 'Joe Doe';
 // Number
 const age = 45;
+// boolean
+const hasKids = false;
 
-console.log(typeof age);
+console.log(typeof hasKids);
