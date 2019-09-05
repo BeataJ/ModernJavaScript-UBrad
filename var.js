@@ -32,3 +32,5 @@
 // const
 const name = 'John';
 console.log(name);
+// // Can't reassign
+// name = 'Sara';
