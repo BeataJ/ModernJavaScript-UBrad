@@ -25,6 +25,9 @@ const address = {
   city: 'Surrey',
   province: 'BC'
 }
+// Date
+const today = new Date();
+console.log(today);
 
 
-console.log(typeof address);
+console.log(typeof today);
