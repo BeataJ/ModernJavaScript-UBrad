@@ -1,4 +1,4 @@
-// PRIMITIVE
+// PRIMITIVE-Types
 //  --------------------------
 
 // String
@@ -14,4 +14,12 @@ let test;
 // Symbol
 const sym = Symbol();
 
-console.log(typeof sym);
+
+// REFERENCE TYPES - Objects
+// _____________________
+
+// array
+const hobbies = ['movies', 'music'];
+
+
+console.log(typeof hobbies);
