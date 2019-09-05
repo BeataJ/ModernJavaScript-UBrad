@@ -2,5 +2,7 @@
 
 // String
 const name = 'Joe Doe';
+// Number
+const age = 45;
 
-console.log(typeof name);
+console.log(typeof age);
