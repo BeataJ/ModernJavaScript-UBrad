@@ -30,9 +30,20 @@
 // console.log(name);
 
 // const
-const name = 'John';
-console.log(name);
+// const name = 'John';
+// console.log(name);
 // // Can't reassign
 // name = 'Sara';
 // Have to assign a value
-const greeting;
+// const greeting;
+
+const person = {
+  name: 'John',
+  age: 30
+}
+
+person.name = 'Sara';
+person.age = 32;
+person.firstName = 'Jas'
+
+console.log(person);
