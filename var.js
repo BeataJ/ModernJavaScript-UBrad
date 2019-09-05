@@ -34,3 +34,5 @@ const name = 'John';
 console.log(name);
 // // Can't reassign
 // name = 'Sara';
+// Have to assign a value
+const greeting;
