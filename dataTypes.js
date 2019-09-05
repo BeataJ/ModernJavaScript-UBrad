@@ -20,6 +20,11 @@ const sym = Symbol();
 
 // array
 const hobbies = ['movies', 'music'];
+// Object literal
+const address = {
+  city: 'Surrey',
+  province: 'BC'
+}
 
 
-console.log(typeof hobbies);
+console.log(typeof address);
