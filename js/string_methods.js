@@ -60,3 +60,4 @@ s = str.replace('beata','bob');
 s = str.includes('bob');
 
 console.log(s);
+console.clear();
