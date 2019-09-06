@@ -24,3 +24,4 @@ v = Math.random();
 v = Math.floor(Math.random() * 20 + 1);
 
 console.log(v);
+console.clear();
