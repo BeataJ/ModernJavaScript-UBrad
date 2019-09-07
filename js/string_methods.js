@@ -57,7 +57,7 @@ s = tags.split(',');
 s = str.replace('beata','bob');
 
 // includes();
-// s = str.includes('beata');
+s = str.includes('beata');
 
 console.log(s);
 console.clear();
