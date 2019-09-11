@@ -61,4 +61,4 @@ valArr = number.find(over50);
 
 console.log(number);
 console.log(valArr);
-console.clear();
+// console.clear();
