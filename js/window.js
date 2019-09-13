@@ -57,3 +57,5 @@ valW = window.navigator.vendor;
 valW = window.navigator.language;
 
 console.log(valW);
+
+console.clear();
